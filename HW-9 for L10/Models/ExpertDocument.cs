@@ -5,7 +5,7 @@ public class ExpertDocumentProgram : ProDocumentProgram
 
 	public override void SaveDocument()
 	{
-		Console.WriteLine("\n\tDocument Saved in pdf format");
+		Console.WriteLine("\n\t\t\tDocument Saved in pdf format");
 	}
 
 }
